@@ -44,7 +44,7 @@ This project implements Langton's Ant, a two-dimensional cellular automaton that
 - Ants occasionally create vibrant color variations
 
 ### Performance Optimizations
-- Double buffering for smooth rendering
+- Double buffering for smooth arendering
 - Viewport culling to avoid rendering off-screen elements
 - Efficient color blending algorithm
 
